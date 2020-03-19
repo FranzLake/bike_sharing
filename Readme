@@ -1,2 +1,4 @@
 Para ejecutar el código del Notebook, sólo hace falta correr cada una de las celdas que contiene, comenzando por la que 
 se encuentra en la parte superior (sección "Libraries"). No hace falta instalar paquetes de forma manual.
+
+El Notebook (ipynb) y el dataset (csv) deben encontrarse en el mismo directorio.
